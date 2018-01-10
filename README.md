@@ -49,4 +49,4 @@ Why do we need Data Preprocessing
 
 **7. Dimensionality Reduction**
 
-**Note:** Deep learning will be covered in different repository/projects 
+**Note:** Deep learning will be covered in different [repository/projects](https://github.com/mallikankati/deep_learning)
