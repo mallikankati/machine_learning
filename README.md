@@ -19,7 +19,7 @@ Why do we need Data Preprocessing
   - If the data is not uniform on given column, need to scale that column by applying `Normalization` or `MinMax`
   - If the column is not used for training and prediction drop it before applying ML algorithm
 
-**2. Regression**
+**2. [Regression](2_Regression)**
    
    [Sunil Ray Blog](https://www.analyticsvidhya.com/blog/2015/08/comprehensive-guide-regression/) explains different kinds of regression. Please read for refreshing basics on regressions. I implemented following regression algorithms
    
