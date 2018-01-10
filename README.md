@@ -49,4 +49,4 @@ Why do we need Data Preprocessing
 
 **7. Dimensionality Reduction**
 
-**Note:** Deep learning we will cover in as a different projects 
+**Note:** Deep learning will be covered in different repository/projects 
