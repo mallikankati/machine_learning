@@ -8,7 +8,7 @@ Highly recommend Udemy Machine Learning course by [SuperScienceData Team](https:
 
 **Note:**  All algorithms require a standard data preprocessing step which covered in details
 
-**1: Data Preprocessing**
+**1: [Data Preprocessing](1_Data_Preprocessing)**
 
 Any ML algorithm require a data preprocessing (DP). In this section we cover why do we need DP and for implementation details look under [Data Preprocessing](1_Data_Preprocessing)
 
