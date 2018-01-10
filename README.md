@@ -15,6 +15,7 @@ Why do we need Data Preprocessing
   - data file may comes with missing data, in that case come up with uniform replacement (or dropping row ) for missing in given column.
   - If the data contains `text` and `numbers`, need to convert `text` related columns to numbers before feed into ML
   - If the data is not uniform on given column, need to scale that column by applying `Normalization` or `MinMax`
+  - If the column is not used for training and prediction drop it
 
 **2. Regression**
 
