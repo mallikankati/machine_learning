@@ -2,9 +2,9 @@
 
 My attempt to implement ML algorithms in python, panda, numpy and sklearn
 
-I am not going to implement all algorithms but will try to cover simplest algorithms first before enter into complex one
+I am not going to implement all algorithms but will try to cover simplest algorithms first before dig into complex one
 
-**Note: ** All algorithms require a standard data preprocessing step which covered in details
+`**Note: **  All algorithms require a standard data preprocessing step which covered in details`
 
 **1: Data Preprocessing **
 
