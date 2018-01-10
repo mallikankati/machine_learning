@@ -12,6 +12,6 @@
 
   **Support Vector Regression**
 
-    Look for post [Understanding SVM via Examples](https://sadanand-singh.github.io/posts/svmpython/) by Sadanand Singh
+   Look for post [Understanding SVM via Examples](https://sadanand-singh.github.io/posts/svmpython/) by Sadanand Singh
 
-    [Pythonprogramming.net](https://pythonprogramming.net/training-testing-machine-learning-tutorial/) explains SVR with example
+   [Pythonprogramming.net](https://pythonprogramming.net/training-testing-machine-learning-tutorial/) explains SVR with example
