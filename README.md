@@ -32,6 +32,12 @@ Why do we need Data Preprocessing
 **3. [Classification](3_Classification)**  
 
    - [Logistic Regression](3_Classification/Logistic_Regression)
+   - K Nearest Neighbors Classification
+   - Support Vector Machine
+   - Kernel Support Vector Machine
+   - Decision Tree Classification
+   - Random Forest Classification
+   - Naive Bayes Classification
 
 **4. Clustering**
 
