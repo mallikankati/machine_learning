@@ -27,7 +27,9 @@ Why do we need Data Preprocessing
    - [Polynomial Regression](2_Regression/2_Polynomial_Regression)
    - [Support Vector Regression](2_Regression/3_Support_Vector_Regression)
    
-**3. Classification**  
+**3. [Classification](3_Classification)**  
+
+   - [Logistic Regression](3_Classification/Logistic_Regression)
 
 **4. Clustering**
 
