@@ -24,7 +24,7 @@ Why do we need Data Preprocessing
    [Sunil Ray Blog](https://www.analyticsvidhya.com/blog/2015/08/comprehensive-guide-regression/) explains different kinds of regression. Please read for refreshing basics on regressions. I implemented following regression algorithms
    
    - [Simple Linear Regression](2_Regression/1_Linear_Regression)
-   - Polynomial Regression
+   - [Polynomial Regression](2_Regression/2_Polynomial_Regression)
    - Support Vector Regression
    
 **3. Classification**  
