@@ -4,6 +4,8 @@ My attempt to implement ML algorithms in python, panda, numpy and sklearn
 
 I am not going to implement all algorithms but will try to cover simplest algorithms first before dig into complex one
 
+Highly recommend Udemy Machine Learning course by [SuperScienceData Team](https://www.udemy.com/machinelearning/). They have amazing content and I learned Machine Learning from this course.
+
 **Note:**  All algorithms require a standard data preprocessing step which covered in details
 
 **1: Data Preprocessing**
