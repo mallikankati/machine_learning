@@ -25,7 +25,7 @@ Why do we need Data Preprocessing
    
    - [Simple Linear Regression](2_Regression/1_Linear_Regression)
    - [Polynomial Regression](2_Regression/2_Polynomial_Regression)
-   - [Support Vector Regression](2_Regression/3_Support_Vector_Regression)
+   - [Support Vector Regression(SVR)](2_Regression/3_Support_Vector_Regression)
    - Decision Tree Regression
    - Random Forest Regression
    
@@ -33,8 +33,8 @@ Why do we need Data Preprocessing
 
    - [Logistic Regression](3_Classification/Logistic_Regression)
    - [K Nearest Neighbors Classification](3_Classification/K_Nearest_Neighbors)
-   - Support Vector Machine
-   - Kernel Support Vector Machine
+   - Support Vector Machine(SVM)
+   - Kernel Support Vector Machine(Kernel-SVM)
    - Decision Tree Classification
    - Random Forest Classification
    - Naive Bayes Classification
