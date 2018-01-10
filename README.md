@@ -18,6 +18,7 @@ Why do we need Data Preprocessing
   - If the column is not used for training and prediction drop it
 
 **2. Regression**
+   
    [Sunil Ray Blog](https://www.analyticsvidhya.com/blog/2015/08/comprehensive-guide-regression/) explains different kinds of regression. Please read for refreshing basics on regressions. I implemented following regression algorithms
    
    - [Simple Linear Regression](2_Regression/1_Linear_Regression)
