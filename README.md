@@ -14,10 +14,10 @@ Any ML algorithm require a data preprocessing (DP). In this section we cover why
 
 Why do we need Data Preprocessing
 
-  - data file may comes with missing data, in that case come up with uniform replacement (or dropping row ) for missing in given column.
+  - data file may comes with missing data, in that case come up with uniform replacement (or dropping row ) for missing data in a given column.
   - If the data contains `text` and `numbers`, need to convert `text` related columns to numbers before feed into ML
   - If the data is not uniform on given column, need to scale that column by applying `Normalization` or `MinMax`
-  - If the column is not used for training and prediction drop it
+  - If the column is not used for training and prediction drop it before applying ML algorithm
 
 **2. Regression**
    
