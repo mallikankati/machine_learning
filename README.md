@@ -41,6 +41,8 @@ Why do we need Data Preprocessing
 
 **4. Clustering**
 
+   - K-Means Clusterning
+   
 **5. Reinforcement Learning**
 
 **6. Natural Language processing**
