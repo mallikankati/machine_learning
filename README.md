@@ -25,7 +25,7 @@ Why do we need Data Preprocessing
    
    - [Simple Linear Regression](2_Regression/1_Linear_Regression)
    - [Polynomial Regression](2_Regression/2_Polynomial_Regression)
-   - Support Vector Regression
+   - [Support Vector Regression](2_Regression/3_Support_Vector_Regression)
    
 **3. Classification**  
 
